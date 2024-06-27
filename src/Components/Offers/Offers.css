@@ -1,7 +1,7 @@
 .offers {
-  margin: 80px 120px;
+  margin: 100px 200px 100px 150px;
   width: 65%;
-  height: 60vh;
+  height: 75vh;
   display: flex;
   padding: 0px 140px;
   background: linear-gradient(180deg, #fde1ff 0%, #e1ffea22 60%);
